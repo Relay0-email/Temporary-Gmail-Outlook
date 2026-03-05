@@ -1,2 +1,2 @@
 # Temporary-Gmail-Outlook
-The Newt-Generation Temporary Email Solution
+The Next-Generation Temporary Email Solution
